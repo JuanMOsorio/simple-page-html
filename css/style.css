@@ -1,0 +1,6 @@
+.fondo {
+	background: url("../img/photo-1.jpg");
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+}
